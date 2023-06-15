@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer#rodape{
+    text-align: center;
+    margin: auto;
+    width: 800px;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+div{
+    background-color: blue;
+    height: 1000px;
+    width: 100px;
+}
+
+a#s27{
+    color: black;
+    text-decoration: none;
+    cursor: text;
+}

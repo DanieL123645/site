@@ -1,0 +1,64 @@
+/*Corpo: inicio*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    background-color: black;
+}
+/*Corpo: fim*/
+
+/*Paragrafos e links: inicio*/
+p{
+    color: white;
+}
+
+p#s1{
+    color: black;
+    cursor: default;
+}
+
+p#s2{
+    color: black;
+    cursor: default;
+}
+
+p#s8{
+    color: black;
+    cursor: default;
+}
+
+p#s9{
+    color: black;
+    cursor: default;
+    font-size: 1px;
+}
+
+a{
+    color: black;
+    cursor: default;
+}
+
+a#per{
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+
+/*paragrafos e links: fim*/
+
+/*Titulos: inicio*/
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+/*Titulos: fim*/
+/* s3
+  _________________
+  Tente achar
+  todos os segre-
+  dos do site
+  _________________
+  
+*/

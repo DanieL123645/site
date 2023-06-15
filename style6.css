@@ -1,0 +1,17 @@
+body{
+    font-family: cursive;
+}
+
+p{
+    text-shadow: 1px 1px 3px #000000a1;
+    color: #222222;
+}
+
+h1{
+    text-shadow: 1px 1px 3px #000000a1;
+}
+
+a{
+    text-shadow: 1px 1px 3px #000000a1;
+    color: #222222;
+}

@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    cursor: text;
+}
+
+a#git{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a#git:hover{
+    color: rgb(0, 29, 192);
+    text-decoration: overline;
+}/*s34*/
+
+div#cod{
+    background-color: rgb(63, 62, 71);
+    color: rgb(218, 141, 0);
+    height: 500px;
+    padding-top: 15px;
+}
+
+div.nl{
+    height: 20px;
+    width: 20px;
+    background-color: rgb(85, 85, 85);
+    color: black;
+    text-align: center;
+}
+
+a#code{
+    color: green;
+}
+
+a.codi{
+    color: white;
+}
+
+div#console{
+    background-color: black;
+    color: white;
+    height: 300px;
+    padding-top: 5px;
+}
+
+div#sep{
+    height: 5px;
+    background-color: white;
+}
